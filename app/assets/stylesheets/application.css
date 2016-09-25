@@ -13,3 +13,23 @@
  *= require_tree .
  *= require_self
  */
+
+#picture {
+	width: 200px;
+	height: auto;
+}
+
+#year {
+	color: white;
+	background-color: green;
+}
+
+#fact {
+	font-weight: bold;
+	color: red;
+}
+
+#exciting {
+	text-decoration: underline;
+	color: purple;
+}
